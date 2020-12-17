@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "test": "convo-test-000",
+    "default": "convo-test-000"
+  }
+}
